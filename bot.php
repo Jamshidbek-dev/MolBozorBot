@@ -1,5 +1,5 @@
 <?php
-
+	// Mol Bozor Bot
 	define('API_KEY', "1249266736:AAHO9TC8CilXjkMpcbTjEk2vBNADRmUeTLM");
 	
 	function bot($method, $datas=[]){
